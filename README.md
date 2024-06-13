@@ -47,7 +47,7 @@ Trained skin disease images using Yolo v3 algorithm and identified the type of s
 ▪ Power BI Job Simulation Certificate issued by Forage from PWC.
 
 ### Publications
-Published NLP Introduction and Basic Concepts with NLP algorithms
+Published article on "NLP Introduction and Basic Concepts with NLP algorithms" on Medium Platform
 
 ### Languages Known
 Telugu, English, Hindi
