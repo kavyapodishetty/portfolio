@@ -44,7 +44,10 @@ Trained skin disease images using Yolo v3 algorithm and identified the type of s
 ▪ Data Analytics with Python Course Completion Certificate issued by IBM Developer Skills Network.                                                                                                                   
 ▪ SQL and Relational Databases Course Completion Certificate issued by IBM Developer Skills Network.                                                                                                                 
 ▪ Data Analytics and Visualization Job Simulation Certificate issued by Forage from Accenture North America.                                                                                                         
-▪ Power BI Job Simulation Certificate issued by Forage from PWC.                                                                                                                                                     
+▪ Power BI Job Simulation Certificate issued by Forage from PWC.
+
+### Publications
+Published NLP Introduction and Basic Concepts with NLP algorithms
 
 ### Languages Known
 Telugu, English, Hindi
