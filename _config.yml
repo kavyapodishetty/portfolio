@@ -1,5 +1,5 @@
 title : Kavya Podishetty
-#logo : profile.jpg
-#discription : text below image
-#show_downloads : true
+logo : assests/img.png
+discription : text below image
+show_downloads : true
 theme : jekyll-theme-minimal
